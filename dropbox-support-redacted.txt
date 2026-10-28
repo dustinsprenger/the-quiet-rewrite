@@ -1,0 +1,73 @@
+PUBLIC CORRESPONDENCE DERIVATIVE
+Record: Dropbox support ticket 26776572; invitation to specify questions, not a substantive government-access answer
+Date header: Tue, 27 Oct 2026 05:22:24 +0000
+Subject: Support request from Dropbox chat
+Original EML SHA-256: a3cc3f21f8297f061c56b5c12e96a36877e55a54970afa03ad2a0ca261aaa794
+
+Transport headers and HTML/remote-image parts omitted. Private ticket URLs and mail-routing codes redacted where present. The original EML remains local and unchanged.
+
+##- Please type your reply above this line -##
+
+<a href="[private support-portal link removed] #26776572: Support request from Dropbox chat</a>
+
+You can add a response by replying to this email. Please be sure to reply with the same email address that you used to originally contact us. 
+
+You can also reply by logging in to your customer portal at [private support-portal link removed]
+
+----------------------------------------------
+
+Eddy, Oct 26, 2026, 10:22 PM PDT
+
+Hi Dustin,
+
+Thank you for reaching out to Dropbox Support. My name is Eddy, and I’ll be more than happy to help you with your request.
+
+I understand that you need assistance with the Dropbox Terms of Service.
+
+Let's take a quick look into this.
+
+Please let me know your questions about the new Terms of Service. We would be happy to help you with these.
+
+I look forward to your response.
+
+Kind Regards,
+Eddy | Dropbox Support
+
+----------------------------------------------
+
+Dustin Sprenger, Oct 25, 2026, 9:15 AM PDT
+
+[2026-10-25 16:13:53 UTC] assistant: Hi, I’m your Dropbox AI assistant. I can answer questions, help troubleshoot issues, and guide you through common support requests.
+
+If additional support is needed, I can connect you with a Support Agent through live chat during your local business hours (Monday-Friday, 9:00 AM-5:00 PM) or help you submit an email support request.
+
+What can I help you with today?
+[2026-10-25 16:13:53 UTC] user: human agent
+[2026-10-25 16:13:59 UTC] assistant: I can help get you to the right place, but I need a bit more about what’s going on first. What do you need help with in Dropbox?
+[2026-10-25 16:14:33 UTC] user: New ToS
+[2026-10-25 16:14:35 UTC] assistant: For questions about Dropbox Terms of Service amendments or contractual changes, I recommend reviewing our [Terms of Service](https://www.dropbox.com/terms) and [Privacy Policy](https://dropbox.com/privacy). While I can't provide legal advice or interpretations about contract modifications, I'm happy to help you with questions about using Dropbox's features and services.
+[2026-10-25 16:14:44 UTC] user: I have, human agent
+[2026-10-25 16:14:47 UTC] assistant: I’ll get you the right help, but I need a little more about the issue first. What part of the new Terms of Service are you trying to understand or resolve?
+[2026-10-25 16:15:02 UTC] user: Government access
+[2026-10-25 16:15:05 UTC] assistant: For questions about Dropbox Terms of Service amendments or contractual changes, I recommend reviewing our [Terms of Service](https://www.dropbox.com/terms) and [Privacy Policy](https://dropbox.com/privacy). While I can't provide legal advice or interpretations about contract modifications, I'm happy to help you with questions about using Dropbox's features and services.
+[2026-10-25 16:15:10 UTC] user: HUMAN AGENT NOW
+[2026-10-25 16:15:15 UTC] assistant: Live chat and phone support aren’t available for your account. I can get your request over to the support team by email instead. Would you like me to create a ticket for you?
+[2026-10-25 16:15:20 UTC] user: yes
+
+ 
+<html>
+Please don't share personally identifiable information in attachments. If you add recipients into the To or CC fields and continue this thread, you confirm that the added recipients are authorized to see replies and attachments, which may include confidential account information. This message may contain attachments. To view them and other support offerings, sign in to <a href="[private support-portal link removed] Support</a>. Dropbox may use AI to improve the support process. Learn more about how we use and protect your data in our <a href="https://www.dropbox.com/privacy">Privacy Policy</a>.
+</html>
+
+--------------------------------
+This email is a service from Dropbox Support.
+
+
+
+
+
+
+
+
+
+[private email-routing code removed]

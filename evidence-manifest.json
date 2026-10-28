@@ -1,0 +1,1040 @@
+{
+  "prepared_at_utc": "2026-10-28T21:58:26.704444+00:00",
+  "files": [
+    {
+      "file": "Sources/Evernote complete policy recovery/cookies-archive-locator.json",
+      "original_sha256": "36e83e30dee831578d0d64fe2a15133fae09498be96d7eb6c36fe21fe00f7295",
+      "published_sha256": "36e83e30dee831578d0d64fe2a15133fae09498be96d7eb6c36fe21fe00f7295",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/cookies-archive-locator.receipt.json",
+      "original_sha256": "489d02b0df2d7d7f5e5b83de00e073c21211f08a253ba33f44c33210666f90f0",
+      "published_sha256": "9c8d45c2322a7baa9c0c5b55a699e82a8bd6533f2d6fb0741e94a3caddf3fece",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/cookies-august.receipt.json",
+      "original_sha256": "1e2ebde4badf80635ac218633c02fc769740f25cc00d400b5b141d28a2cd68e3",
+      "published_sha256": "1e2ebde4badf80635ac218633c02fc769740f25cc00d400b5b141d28a2cd68e3",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/current-verified.numbered.txt",
+      "original_sha256": "54febb1c0bb8c8e67599a71fc98a6e678e3e30fda195318bc6f2845c04d6be37",
+      "published_sha256": "54febb1c0bb8c8e67599a71fc98a6e678e3e30fda195318bc6f2845c04d6be37",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/current-verified.policy.txt",
+      "original_sha256": "272bb2908609b505f6c4333964b6961eff3d66e18021d7aec015a4f5232b38fa",
+      "published_sha256": "272bb2908609b505f6c4333964b6961eff3d66e18021d7aec015a4f5232b38fa",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/ota-oct-policy.md",
+      "original_sha256": "11bea7fda14ae77f20d1e527a09938319cd72d3a1021dfc683a666007183c83b",
+      "published_sha256": "11bea7fda14ae77f20d1e527a09938319cd72d3a1021dfc683a666007183c83b",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/ota-oct-policy.receipt.json",
+      "original_sha256": "d9f68e4e93ed968e7d804b56939a11df26c6c291e927d52b390cbe424e800c94",
+      "published_sha256": "d9f68e4e93ed968e7d804b56939a11df26c6c291e927d52b390cbe424e800c94",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/ota-sept-commit.json",
+      "original_sha256": "548ef31afd8558a21bee0a49ee8e641243622a920aa6e71eb8baccf1f3b3b051",
+      "published_sha256": "548ef31afd8558a21bee0a49ee8e641243622a920aa6e71eb8baccf1f3b3b051",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/ota-sept-commit.receipt.json",
+      "original_sha256": "e6e0c960125890b54c645d7c997f08f3d3e7a9c0a5d520191129a2d470c8b00b",
+      "published_sha256": "e6e0c960125890b54c645d7c997f08f3d3e7a9c0a5d520191129a2d470c8b00b",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/ota-sept-html.policy.txt",
+      "original_sha256": "a2ad6327ff894f072fda821c9e0e079e62646a37a3a3945412ea70542de9787f",
+      "published_sha256": "a2ad6327ff894f072fda821c9e0e079e62646a37a3a3945412ea70542de9787f",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/ota-sept-policy.md",
+      "original_sha256": "b8d39c6530e3aee8eb36b79daa27c007411e98f14fbbec17b471140ae2074fe7",
+      "published_sha256": "b8d39c6530e3aee8eb36b79daa27c007411e98f14fbbec17b471140ae2074fe7",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/ota-sept-policy.receipt.json",
+      "original_sha256": "f72acb18037427a12e5d08dbb8343eb649d3a9911189ac917536dec34b4b34cf",
+      "published_sha256": "f72acb18037427a12e5d08dbb8343eb649d3a9911189ac917536dec34b4b34cf",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/ota-sept-snapshot-commit.json",
+      "original_sha256": "9b42fdaa0cfa5f17818d9c1cde493f16657bed961a03b9a4e6abbaf9dcc9dff2",
+      "published_sha256": "9b42fdaa0cfa5f17818d9c1cde493f16657bed961a03b9a4e6abbaf9dcc9dff2",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/ota-sept-snapshot-commit.receipt.json",
+      "original_sha256": "cae55475b756ed82616566fdf7eac3f4493d1bed69339decfb120a0646908695",
+      "published_sha256": "cae55475b756ed82616566fdf7eac3f4493d1bed69339decfb120a0646908695",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/policy-full.diff",
+      "original_sha256": "f6d6d9488ed06d03c16049612b8c0b66f2a2ddc73aae3c7d5a02a75009bd1296",
+      "published_sha256": "f6d6d9488ed06d03c16049612b8c0b66f2a2ddc73aae3c7d5a02a75009bd1296",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/verification.json",
+      "original_sha256": "4e72ff322269af3ec3d26ff53ccdc10ff76b46db0d774c9874aa6cfd8d642c4d",
+      "published_sha256": "4e72ff322269af3ec3d26ff53ccdc10ff76b46db0d774c9874aa6cfd8d642c4d",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/wayback-june.numbered.txt",
+      "original_sha256": "6a2fc1cfe1ace59268b0d55a9cbc9d7801a70e758ce5fe5e62054d42e5de53e8",
+      "published_sha256": "6a2fc1cfe1ace59268b0d55a9cbc9d7801a70e758ce5fe5e62054d42e5de53e8",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Evernote complete policy recovery/wayback-june.policy.txt",
+      "original_sha256": "a2ad6327ff894f072fda821c9e0e079e62646a37a3a3945412ea70542de9787f",
+      "published_sha256": "a2ad6327ff894f072fda821c9e0e079e62646a37a3a3945412ea70542de9787f",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/boxy-current.numbered.txt",
+      "original_sha256": "3f7efd8702a16a85d48607bb97b11910c14c4cfa4c2e737c7081bff54b9f6354",
+      "published_sha256": "3f7efd8702a16a85d48607bb97b11910c14c4cfa4c2e737c7081bff54b9f6354",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/boxy-current.policy.txt",
+      "original_sha256": "2a740bf578c27a8134119d2a416510661495f62b2eeb8f2ea0d6f8a9ae21b5fa",
+      "published_sha256": "2a740bf578c27a8134119d2a416510661495f62b2eeb8f2ea0d6f8a9ae21b5fa",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/boxy-may-to-current.diff",
+      "original_sha256": "93f73eb8ab49991d4da1e7ee5e67dc71c1d9278b153427bb1cd0ec1b4ce38cf9",
+      "published_sha256": "93f73eb8ab49991d4da1e7ee5e67dc71c1d9278b153427bb1cd0ec1b4ce38cf9",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/boxy-may.numbered.txt",
+      "original_sha256": "35340fd04c61831229a6b7a343a7b0922181c9ec9455d5681bede31efbf745ac",
+      "published_sha256": "35340fd04c61831229a6b7a343a7b0922181c9ec9455d5681bede31efbf745ac",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/boxy-may.policy.txt",
+      "original_sha256": "d47364c0d8f84919c4d4ff32c3d24205b8b927dfca568b5bd03497b00c6adb5c",
+      "published_sha256": "d47364c0d8f84919c4d4ff32c3d24205b8b927dfca568b5bd03497b00c6adb5c",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/mailbox-current.numbered.txt",
+      "original_sha256": "73918e4ef85c464d9eb0f0017e38cae0f657cb9c45c80b4ee45018fb65fd6779",
+      "published_sha256": "73918e4ef85c464d9eb0f0017e38cae0f657cb9c45c80b4ee45018fb65fd6779",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/mailbox-current.policy.txt",
+      "original_sha256": "124dd7affa86498b9b6672a4e08efe8a50e50f02570255eec797519f7c93b185",
+      "published_sha256": "124dd7affa86498b9b6672a4e08efe8a50e50f02570255eec797519f7c93b185",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/mailbox-june-to-current.diff",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/mailbox-june.numbered.txt",
+      "original_sha256": "73918e4ef85c464d9eb0f0017e38cae0f657cb9c45c80b4ee45018fb65fd6779",
+      "published_sha256": "73918e4ef85c464d9eb0f0017e38cae0f657cb9c45c80b4ee45018fb65fd6779",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/mailbox-june.policy.txt",
+      "original_sha256": "124dd7affa86498b9b6672a4e08efe8a50e50f02570255eec797519f7c93b185",
+      "published_sha256": "124dd7affa86498b9b6672a4e08efe8a50e50f02570255eec797519f7c93b185",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/mailbox-terms-august-to-current.diff",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/mailbox-terms-august.policy.txt",
+      "original_sha256": "7ea05a18f93ab00f98e425f6b1766244e10496b4cf65e86c923aabb40b7351b3",
+      "published_sha256": "7ea05a18f93ab00f98e425f6b1766244e10496b4cf65e86c923aabb40b7351b3",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/mailbox-terms-current.policy.txt",
+      "original_sha256": "7ea05a18f93ab00f98e425f6b1766244e10496b4cf65e86c923aabb40b7351b3",
+      "published_sha256": "7ea05a18f93ab00f98e425f6b1766244e10496b4cf65e86c923aabb40b7351b3",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/runbox-ai-cdx.json",
+      "original_sha256": "8e93959952219ac70aae4cbe736d5bff8aa42ff35141775e6463ec40936b796c",
+      "published_sha256": "8e93959952219ac70aae4cbe736d5bff8aa42ff35141775e6463ec40936b796c",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/runbox-ai-cdx.receipt.json",
+      "original_sha256": "9dc30dbefb97bc412d38ecfc457a4635d328b9ba9b909001097b6d64780f0da9",
+      "published_sha256": "99c77ce269aa5375feaebfd9adb7788f357e0fd0acd9552a4765931d9cd5fbc2",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/Mail policy comparison/runbox-boxy-cdx.json",
+      "original_sha256": "5e8315684137a65d1e547a453f4b15a8158eb660b0111dedf7ab7d478012918b",
+      "published_sha256": "5e8315684137a65d1e547a453f4b15a8158eb660b0111dedf7ab7d478012918b",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/Mail policy comparison/runbox-boxy-cdx.receipt.json",
+      "original_sha256": "ad3ebcc15564c881e1a8013226f740600794c71b6489bc58ed98c69ea3fe3445",
+      "published_sha256": "da28ec921689d99c9291d2e57e4d09d4b6f2e39651296d269a63536474502712",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/Mail policy comparison/verification.json",
+      "original_sha256": "1adda7928d9f4f9b19096d37796109532c9a49ac54a3530f3c77cd87149b7ff1",
+      "published_sha256": "1adda7928d9f4f9b19096d37796109532c9a49ac54a3530f3c77cd87149b7ff1",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S1-osf-publication-event.json",
+      "original_sha256": "79dc6554540d5adf4e3e14203bebc5acfc50cdc7c472fdbbf5886fdba07d25e9",
+      "published_sha256": "79dc6554540d5adf4e3e14203bebc5acfc50cdc7c472fdbbf5886fdba07d25e9",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S1-osf-publication-event.json.gz",
+      "original_sha256": "98a4dd6479865d3343598dece26a5f040f1a9dbef46b613396071cdf00c7c767",
+      "published_sha256": "98a4dd6479865d3343598dece26a5f040f1a9dbef46b613396071cdf00c7c767",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S1-osf-publication-event.receipt.json",
+      "original_sha256": "a6f81219387a8f9eab9a2336e0d69494e4a89bf0637322088f341862e11063b7",
+      "published_sha256": "a6f81219387a8f9eab9a2336e0d69494e4a89bf0637322088f341862e11063b7",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S1-osf-publication-event.txt",
+      "original_sha256": "79dc6554540d5adf4e3e14203bebc5acfc50cdc7c472fdbbf5886fdba07d25e9",
+      "published_sha256": "79dc6554540d5adf4e3e14203bebc5acfc50cdc7c472fdbbf5886fdba07d25e9",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S1-preserved-OSF-anchor.json",
+      "original_sha256": "201da921e8c4777dd4ddd453cc3d3bea6c4a267789d715c2cb05323db699054b",
+      "published_sha256": "2aeada59f827e5897ff6c422226ea88ead6366261de1c70c7b4b69e8af85b515",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S1-registration-date.json",
+      "original_sha256": "d165b91235c03d5a40340ef2d9dff3c4df3a8c56aeed718af232a8cbb60688bb",
+      "published_sha256": "267c6cf10bef04df7d573e4a2353214e2876c45b3f9e8766e194befb8cfd2377",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S10-en-privacy-new.html.gz",
+      "original_sha256": "5a1129c5c94d2361a1759e5f0cdbfba577b6bf5049c572e6d8261d9385e0926a",
+      "published_sha256": "5a1129c5c94d2361a1759e5f0cdbfba577b6bf5049c572e6d8261d9385e0926a",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S10-en-privacy-new.receipt.json",
+      "original_sha256": "d44c34d8ac6450e48ea7d3f6963d9750e915e9d4dbe7a6362e0a012fb3ff9449",
+      "published_sha256": "51056c40d609916d5dfadd39afd828dabdffd1c02c57ac82a66f84fb546ba3a0",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S10-en-privacy-new.txt",
+      "original_sha256": "3b3541a82e6d425fb886dfbb1af66d792623e7a02e7ae896a7872134e123b0bd",
+      "published_sha256": "3b3541a82e6d425fb886dfbb1af66d792623e7a02e7ae896a7872134e123b0bd",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S10-en-privacy-verified.html.gz",
+      "original_sha256": "5a1129c5c94d2361a1759e5f0cdbfba577b6bf5049c572e6d8261d9385e0926a",
+      "published_sha256": "5a1129c5c94d2361a1759e5f0cdbfba577b6bf5049c572e6d8261d9385e0926a",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S10-en-privacy-verified.receipt.json",
+      "original_sha256": "b26fc6bbeb12388d27e041eb7d4bb87dea86eda1cac67687ddf29118d1d0ee08",
+      "published_sha256": "9616fc4a4a329bc887b3f3fcc9095d0e4c90ea1c0276d6b6d0ca424a025dba34",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S10-en-privacy-verified.txt",
+      "original_sha256": "3b3541a82e6d425fb886dfbb1af66d792623e7a02e7ae896a7872134e123b0bd",
+      "published_sha256": "3b3541a82e6d425fb886dfbb1af66d792623e7a02e7ae896a7872134e123b0bd",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S11-en-current.html.gz",
+      "original_sha256": "3a0dfa922598b163c086cfd593ad60c19a376b4f5496a246aa9346afe27240d4",
+      "published_sha256": "3a0dfa922598b163c086cfd593ad60c19a376b4f5496a246aa9346afe27240d4",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S11-en-current.receipt.json",
+      "original_sha256": "b41d1503fa9dd695892708d3793f5f0adea4ee07f6a2de56ae4b49f6fc37c518",
+      "published_sha256": "94ba2ea1b21eec88fc310b5fe50db6cf7abb6a55a2e9838fe370bce86a7273fb",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S11-en-current.txt",
+      "original_sha256": "02cb7fa6cafbb0cd06a43229730adba05de8d435ce44e743af2c71ccc5a2c5ee",
+      "published_sha256": "02cb7fa6cafbb0cd06a43229730adba05de8d435ce44e743af2c71ccc5a2c5ee",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S12-apple-current.html.gz",
+      "original_sha256": "22f99332366c8517bfcd7ffbdd049e92eb909d106e66632ef9d17878a25fe4ea",
+      "published_sha256": "22f99332366c8517bfcd7ffbdd049e92eb909d106e66632ef9d17878a25fe4ea",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S12-apple-current.receipt.json",
+      "original_sha256": "abfba11eb9f5345627cfa1cf202bd21a355e1191da49c3ed6bf3cf5ef42a41e3",
+      "published_sha256": "234c05f078cc9a39cc44b6df8418ed703800d04dd0574850de066054d9b60929",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S12-apple-current.txt",
+      "original_sha256": "1bd24f9d3029ecb3fac73dc453d0c81d4bac4e36de6d96168b9fca2e9f5d3442",
+      "published_sha256": "1bd24f9d3029ecb3fac73dc453d0c81d4bac4e36de6d96168b9fca2e9f5d3442",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S13-apple-siri-launch.html.gz",
+      "original_sha256": "7e77490afbf77456eeff40f83d112ab50f5a309b52068d13159c52c4d65f86f7",
+      "published_sha256": "7e77490afbf77456eeff40f83d112ab50f5a309b52068d13159c52c4d65f86f7",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S13-apple-siri-launch.receipt.json",
+      "original_sha256": "66883290847a8fc44bd82f17584ce89170910cd0f970f5979b33f69796c8bfa3",
+      "published_sha256": "a08e3b925c3ed6ee434d7086ea0cbbd9cc773cbd9f89c84a4563d995d42845da",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S13-apple-siri-launch.txt",
+      "original_sha256": "ec8c7321a5d14b4b289ee159e5ef7d47345a3e1afb9a30aef29749e78a2d9bff",
+      "published_sha256": "ec8c7321a5d14b4b289ee159e5ef7d47345a3e1afb9a30aef29749e78a2d9bff",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S14-apple-security.html.gz",
+      "original_sha256": "5e6aa30252199aa6c3dc0433532351d1841445eea4484c42e74ca49cdd9275e6",
+      "published_sha256": "5e6aa30252199aa6c3dc0433532351d1841445eea4484c42e74ca49cdd9275e6",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S14-apple-security.receipt.json",
+      "original_sha256": "dae69773c53f66b5c1c771ae09578ef067c4a6250ef1c8886fb21c2be20d932c",
+      "published_sha256": "dae69773c53f66b5c1c771ae09578ef067c4a6250ef1c8886fb21c2be20d932c",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S14-apple-security.txt",
+      "original_sha256": "e50f70ee355bdde6b2011c3e50002100fbfefe8c1441e4dde2413559cf454b37",
+      "published_sha256": "e50f70ee355bdde6b2011c3e50002100fbfefe8c1441e4dde2413559cf454b37",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S15-apple-archive-query.json",
+      "original_sha256": "03bc83fab0043a6ec0200bf449845161cbbf18dc5cbf19cae6d33792aa678aae",
+      "published_sha256": "03bc83fab0043a6ec0200bf449845161cbbf18dc5cbf19cae6d33792aa678aae",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S15-apple-archive-query.json.gz",
+      "original_sha256": "c809b94abdf6a3e03aab4caf8a521a96d4b1e250122a8d0e6dc2ff5504636264",
+      "published_sha256": "c809b94abdf6a3e03aab4caf8a521a96d4b1e250122a8d0e6dc2ff5504636264",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S15-apple-archive-query.receipt.json",
+      "original_sha256": "6db4acb67765ee2f3e095f2c74a927a27a70348ddd1299cf608a2ae31b84a7a8",
+      "published_sha256": "9fa47d8506d98d8c7cb4582e962e70423eeb812d46ae1e59020b077cab96f817",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S15-apple-archive-query.txt",
+      "original_sha256": "03bc83fab0043a6ec0200bf449845161cbbf18dc5cbf19cae6d33792aa678aae",
+      "published_sha256": "03bc83fab0043a6ec0200bf449845161cbbf18dc5cbf19cae6d33792aa678aae",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S15-apple-aug-replay.decoded.html.gz",
+      "original_sha256": "7047466f9a9d3386d136c48227b5ce46f149bca79e9c732bbe094e76996ad20b",
+      "published_sha256": "7047466f9a9d3386d136c48227b5ce46f149bca79e9c732bbe094e76996ad20b",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S15-apple-aug-replay.html.gz",
+      "original_sha256": "345604fc743a7602d23fa8376af194eaebebf1fceaed94097fc21f2d534c1fc9",
+      "published_sha256": "345604fc743a7602d23fa8376af194eaebebf1fceaed94097fc21f2d534c1fc9",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S15-apple-aug-replay.receipt.json",
+      "original_sha256": "a94b84a4bdf41a01deb7f43543b633f4f98cdc1bd306063933b8779fd8367fcd",
+      "published_sha256": "74c26b96d271503c5495931c3c869d813f741c6db6a2a082cd3df6d249134dcb",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S15-apple-aug-replay.txt",
+      "original_sha256": "c7cada8fcfcf59bda7b87eb61a3fd9024d7bdb233f890c919a440fb94c249f18",
+      "published_sha256": "c7cada8fcfcf59bda7b87eb61a3fd9024d7bdb233f890c919a440fb94c249f18",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S16-en-archive-query.json",
+      "original_sha256": "473780c5d61d52ff41d610b3707a5eff3af8fa2cfc7b91bd283642fd17c99e78",
+      "published_sha256": "473780c5d61d52ff41d610b3707a5eff3af8fa2cfc7b91bd283642fd17c99e78",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S16-en-archive-query.json.gz",
+      "original_sha256": "22ca9023971b1ee68b9ef5a061ec1b20f209d3779ec5f8f58429c6021b3f0a85",
+      "published_sha256": "22ca9023971b1ee68b9ef5a061ec1b20f209d3779ec5f8f58429c6021b3f0a85",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S16-en-archive-query.receipt.json",
+      "original_sha256": "0c141735732edb5c9c69a4370a8ed216d2c65663b4af0a6de9276afd5bea7948",
+      "published_sha256": "632993246262ed451e679842295e607a114fa531955f83904cedda98c4ab9a57",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S16-en-archive-query.txt",
+      "original_sha256": "473780c5d61d52ff41d610b3707a5eff3af8fa2cfc7b91bd283642fd17c99e78",
+      "published_sha256": "473780c5d61d52ff41d610b3707a5eff3af8fa2cfc7b91bd283642fd17c99e78",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S16-en-privacy-monitor-before.html.gz",
+      "original_sha256": "580556f4feb08fe7ec94b6d64d10031e1be67df9df2a43a5237aa3da6e2d2e3d",
+      "published_sha256": "580556f4feb08fe7ec94b6d64d10031e1be67df9df2a43a5237aa3da6e2d2e3d",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S16-en-privacy-monitor-before.receipt.json",
+      "original_sha256": "0fbe1d21d91fd3daae3a7854dc3dffa3a017d0d5c7dd89a89dac3254fb3114e7",
+      "published_sha256": "0fbe1d21d91fd3daae3a7854dc3dffa3a017d0d5c7dd89a89dac3254fb3114e7",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S16-en-privacy-monitor-before.txt",
+      "original_sha256": "2b72f70fd2d5c9890470687ebc9f8ab03146d96c4a4caff2d40f9e038145934c",
+      "published_sha256": "2b72f70fd2d5c9890470687ebc9f8ab03146d96c4a4caff2d40f9e038145934c",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S17-en-old-tracker.html.gz",
+      "original_sha256": "7c87ff5cbfd9ce0536b5c18d409ac3c4472cdc30878295a4329809d69e0b7ff3",
+      "published_sha256": "7c87ff5cbfd9ce0536b5c18d409ac3c4472cdc30878295a4329809d69e0b7ff3",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S17-en-old-tracker.receipt.json",
+      "original_sha256": "0247d40b03187144b1e1e0a7f0174874909f6b1a22eb00c8a343e5664f4d9c31",
+      "published_sha256": "0247d40b03187144b1e1e0a7f0174874909f6b1a22eb00c8a343e5664f4d9c31",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S17-en-old-tracker.txt",
+      "original_sha256": "a458907265819f7819453525434eb6f52a98c42c132b239ef8cfd6fe818087af",
+      "published_sha256": "a458907265819f7819453525434eb6f52a98c42c132b239ef8cfd6fe818087af",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S17-en-terms-archive-query.json",
+      "original_sha256": "00e98bb757d4e189d659c152a5147b2f78391b3ec931984028f299f801e3e186",
+      "published_sha256": "00e98bb757d4e189d659c152a5147b2f78391b3ec931984028f299f801e3e186",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S17-en-terms-archive-query.json.gz",
+      "original_sha256": "aa08239661759bd311cc7e1911a2e89c824ee021ed2856b08f1901dfa3fd383b",
+      "published_sha256": "aa08239661759bd311cc7e1911a2e89c824ee021ed2856b08f1901dfa3fd383b",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S17-en-terms-archive-query.receipt.json",
+      "original_sha256": "578c0998a8f8d1c54cd90f5d598653732612fa0071e8c6c4115268900912ef1c",
+      "published_sha256": "d87497b0216e46e6c2e7a590c351771978d9f3899d6bf316646b50f9e7f2f169",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S17-en-terms-archive-query.txt",
+      "original_sha256": "00e98bb757d4e189d659c152a5147b2f78391b3ec931984028f299f801e3e186",
+      "published_sha256": "00e98bb757d4e189d659c152a5147b2f78391b3ec931984028f299f801e3e186",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S18-db-faq.html.gz",
+      "original_sha256": "3af51325116a8471b5166aee492ec6e00d13ee68947d5433f63ad33856cc69e0",
+      "published_sha256": "3af51325116a8471b5166aee492ec6e00d13ee68947d5433f63ad33856cc69e0",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S18-db-faq.receipt.json",
+      "original_sha256": "83a346315d361ef5786a66d13c8d3aa5ab2d7e8a5188448add07c1bc87592e85",
+      "published_sha256": "83a346315d361ef5786a66d13c8d3aa5ab2d7e8a5188448add07c1bc87592e85",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S18-db-faq.txt",
+      "original_sha256": "0798f824b450b41510fba6df25718ef817d481a87f00b5cf9730d466f1333f89",
+      "published_sha256": "0798f824b450b41510fba6df25718ef817d481a87f00b5cf9730d466f1333f89",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S19-en-privacy-monitor-diff.html.gz",
+      "original_sha256": "650996922d7595c095f7c08dd0cdea2a248f8edaed701c8eaaaf79dfbddfa30a",
+      "published_sha256": "650996922d7595c095f7c08dd0cdea2a248f8edaed701c8eaaaf79dfbddfa30a",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S19-en-privacy-monitor-diff.receipt.json",
+      "original_sha256": "c2826fd83daf7107051ac12216eb205c83704da7b9bdc817855ff09b8fb2a100",
+      "published_sha256": "c2826fd83daf7107051ac12216eb205c83704da7b9bdc817855ff09b8fb2a100",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S19-en-privacy-monitor-diff.txt",
+      "original_sha256": "ba2efe494a593e8dc5c324472220ebbb61c13b2d7848615af589e69bd865f7aa",
+      "published_sha256": "ba2efe494a593e8dc5c324472220ebbb61c13b2d7848615af589e69bd865f7aa",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S2-db-current.html.gz",
+      "original_sha256": "5a142dd6f2a43c7c1165236107878fd85bac4e2badad72106057c42bc984d8b9",
+      "published_sha256": "5a142dd6f2a43c7c1165236107878fd85bac4e2badad72106057c42bc984d8b9",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S2-db-current.receipt.json",
+      "original_sha256": "6c0bfa253c5b882a1eca3146cfd3279161fff0bdb99c203069cf0dbf0eba0972",
+      "published_sha256": "3ad7be7fc40c02a0005b906081e74c1423a8ffefa8098929fab014030d171c8e",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S2-db-current.txt",
+      "original_sha256": "cbb6eace15c189d782909083e25b0a065bfc60adbad154289f4b5f616210e9d2",
+      "published_sha256": "cbb6eace15c189d782909083e25b0a065bfc60adbad154289f4b5f616210e9d2",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S20-en-wayback-web.json",
+      "original_sha256": "42210d1f68839aa04b937f3cdbffc314862867f5191320da42f7a465bc276ba3",
+      "published_sha256": "42210d1f68839aa04b937f3cdbffc314862867f5191320da42f7a465bc276ba3",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S21-en-privacy-june-full.html.gz",
+      "original_sha256": "57874a35b76043a27c696f803197bce872be2bc59b356a5a0169770ab2b1843b",
+      "published_sha256": "57874a35b76043a27c696f803197bce872be2bc59b356a5a0169770ab2b1843b",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S21-en-privacy-june-full.receipt.json",
+      "original_sha256": "79970b0fdcbe90d74a4979be11f23aeca97b2dd868574c4371195c4b6f410047",
+      "published_sha256": "9dde708f685082a15367a07045694562d14f895c91434b0b8ebc62e771442e1b",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S21-en-privacy-june-full.txt",
+      "original_sha256": "beb145e8b303f0de38a4471917159ecd3de317a23e45c6b9e464561176efd834",
+      "published_sha256": "beb145e8b303f0de38a4471917159ecd3de317a23e45c6b9e464561176efd834",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S22-en-privacy-sept-mirror.html.gz",
+      "original_sha256": "1153c568824a9b4a1f476f09558cf8fc2216c3e5b875fcf67f2526b0420ed00f",
+      "published_sha256": "1153c568824a9b4a1f476f09558cf8fc2216c3e5b875fcf67f2526b0420ed00f",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S22-en-privacy-sept-mirror.receipt.json",
+      "original_sha256": "601da7d71bcf50ca8ec3c09cd085b6fc7560087be8ff7f55fa61f01ce6369af4",
+      "published_sha256": "601da7d71bcf50ca8ec3c09cd085b6fc7560087be8ff7f55fa61f01ce6369af4",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S22-en-privacy-sept-mirror.txt",
+      "original_sha256": "962065cf4592c35f69b743d2be17c98a4ab67c8736daef0fc3bf634098649b9e",
+      "published_sha256": "962065cf4592c35f69b743d2be17c98a4ab67c8736daef0fc3bf634098649b9e",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S23-en-privacy-oct-commit.json",
+      "original_sha256": "9b70450c3db7a4f836a7f85257721adcfef074ba609e8d8bc7f4f2d206695da2",
+      "published_sha256": "9b70450c3db7a4f836a7f85257721adcfef074ba609e8d8bc7f4f2d206695da2",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S23-en-privacy-oct-commit.json.gz",
+      "original_sha256": "27101dd5c65d80b51bbc81b0a42f63d1fdfb2509ad23268a4b8851c63e9b477e",
+      "published_sha256": "27101dd5c65d80b51bbc81b0a42f63d1fdfb2509ad23268a4b8851c63e9b477e",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S23-en-privacy-oct-commit.receipt.json",
+      "original_sha256": "d572fd981f1d195318b231d1c954edb4ce7d520522d86f0859d04b6f379ab738",
+      "published_sha256": "d572fd981f1d195318b231d1c954edb4ce7d520522d86f0859d04b6f379ab738",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S23-en-privacy-oct-commit.txt",
+      "original_sha256": "3bd277cb5156fd5f8006a804f7ba0c124e6321f9b89e9bda34cfe89d4f5ffa74",
+      "published_sha256": "3bd277cb5156fd5f8006a804f7ba0c124e6321f9b89e9bda34cfe89d4f5ffa74",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S24-runbox-boxy-may-replay.html.gz",
+      "original_sha256": "8e8d8c1fc8ba05dcf4ecf0a39a19d82d4243ebcf999c8ff5a4e85296fc23b24b",
+      "published_sha256": "8e8d8c1fc8ba05dcf4ecf0a39a19d82d4243ebcf999c8ff5a4e85296fc23b24b",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S24-runbox-boxy-may-replay.receipt.json",
+      "original_sha256": "2bac7571a47850d48f6cb5d8efe04d6a3ac892d1b3cf92370e4f5b42ba4fc069",
+      "published_sha256": "d5d6108838c3492b246b698f68296d33c5a87b92bea2ac4e5cc02ac194eccf25",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S24-runbox-boxy-may-replay.txt",
+      "original_sha256": "a699045b8e938e46d49a0fcf3c071ae4f9e7aec8ff3b9513ca4a2820c020a131",
+      "published_sha256": "a699045b8e938e46d49a0fcf3c071ae4f9e7aec8ff3b9513ca4a2820c020a131",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S25-runbox-boxy-policy.html.gz",
+      "original_sha256": "1be887f83b6784d530252f71c8a844a4ab9d64635cdfdc8240cde7607d7c3e37",
+      "published_sha256": "1be887f83b6784d530252f71c8a844a4ab9d64635cdfdc8240cde7607d7c3e37",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S25-runbox-boxy-policy.receipt.json",
+      "original_sha256": "df389e59221a307855d9e382cb794d207adb1a6f2e7ffae9f0aaa7d951d3c1a0",
+      "published_sha256": "df389e59221a307855d9e382cb794d207adb1a6f2e7ffae9f0aaa7d951d3c1a0",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S25-runbox-boxy-policy.txt",
+      "original_sha256": "b0063c19f919d00cb98fac63007fb6311d2f449937faf4457c7a3672d20002d2",
+      "published_sha256": "b0063c19f919d00cb98fac63007fb6311d2f449937faf4457c7a3672d20002d2",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S26-runbox-ai-current.html.gz",
+      "original_sha256": "5662d2b84eebc122e4634b1ac2b79be3b3951ad9b2e21e004b746c3235c8caba",
+      "published_sha256": "5662d2b84eebc122e4634b1ac2b79be3b3951ad9b2e21e004b746c3235c8caba",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S26-runbox-ai-current.receipt.json",
+      "original_sha256": "5ce8d93541c37c231df53b09d573eaad400c682077d83cb748ff0e3f01315d43",
+      "published_sha256": "5ce8d93541c37c231df53b09d573eaad400c682077d83cb748ff0e3f01315d43",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S26-runbox-ai-current.txt",
+      "original_sha256": "ffa96c1dcdbf4750d3d0ce3072bc6f67b8fce665af122a8e9717cf47c067cde7",
+      "published_sha256": "ffa96c1dcdbf4750d3d0ce3072bc6f67b8fce665af122a8e9717cf47c067cde7",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S27-runbox-may-boxy.html.gz",
+      "original_sha256": "61e2163ddc113ea6025f4a13bbc81be68e11ddf793cf675f00991f9a69e36317",
+      "published_sha256": "61e2163ddc113ea6025f4a13bbc81be68e11ddf793cf675f00991f9a69e36317",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S27-runbox-may-boxy.receipt.json",
+      "original_sha256": "2ce506f5fcf70cd521c06f34a995221de021604d93bbaeeb8ee865fba12fecbe",
+      "published_sha256": "2ce506f5fcf70cd521c06f34a995221de021604d93bbaeeb8ee865fba12fecbe",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S27-runbox-may-boxy.txt",
+      "original_sha256": "bb2f72d3748c09dd4cafc4325f4cd9175fa6d7a292100d79ef7f83091163263c",
+      "published_sha256": "bb2f72d3748c09dd4cafc4325f4cd9175fa6d7a292100d79ef7f83091163263c",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S28-runbox-aug-support.html.gz",
+      "original_sha256": "86014c335614615b1c34364d7bde11a012a9e4b585e8e569c9f61d68e5c2fe92",
+      "published_sha256": "86014c335614615b1c34364d7bde11a012a9e4b585e8e569c9f61d68e5c2fe92",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S28-runbox-aug-support.receipt.json",
+      "original_sha256": "5e600ac28d8f7739ac99506104276e4784dc0a3ebc69340d884572012fa451af",
+      "published_sha256": "5e600ac28d8f7739ac99506104276e4784dc0a3ebc69340d884572012fa451af",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S28-runbox-aug-support.txt",
+      "original_sha256": "29f5600f4cc6efdee816b93f81f718ec79c87c256c00f459fbfa6c6e89b85dab",
+      "published_sha256": "29f5600f4cc6efdee816b93f81f718ec79c87c256c00f459fbfa6c6e89b85dab",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S29-runbox-privacy-current.html.gz",
+      "original_sha256": "8fb5f124eec3b7a0c37059da4d5bdd0a89c6622fc307a70a1dfe6d661201b9d1",
+      "published_sha256": "8fb5f124eec3b7a0c37059da4d5bdd0a89c6622fc307a70a1dfe6d661201b9d1",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S29-runbox-privacy-current.receipt.json",
+      "original_sha256": "60d689f12a6a7bd8ad27417bb2f1419e504d090b0ca61047be9ca5896da40803",
+      "published_sha256": "60d689f12a6a7bd8ad27417bb2f1419e504d090b0ca61047be9ca5896da40803",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S29-runbox-privacy-current.txt",
+      "original_sha256": "c4ae54ba2e9a45b7c19ce59caf572438455e9cfc2f019b04b955badc004e9784",
+      "published_sha256": "c4ae54ba2e9a45b7c19ce59caf572438455e9cfc2f019b04b955badc004e9784",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S3-db-upcoming.html.gz",
+      "original_sha256": "844211cbc707af1bdd7e5745532357d51e225016b76d228b413ffb183ff4576c",
+      "published_sha256": "844211cbc707af1bdd7e5745532357d51e225016b76d228b413ffb183ff4576c",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S3-db-upcoming.receipt.json",
+      "original_sha256": "3cbb706b81cd4297c2f3e44d65d2fbaf15cd7be1791c30a5b29add44bada877b",
+      "published_sha256": "3d6170abc1d6bd4b515e3e90452f7e4d910029eda09daed4792a12d859d85111",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S3-db-upcoming.txt",
+      "original_sha256": "4d03b0281c942ed29e1eea43d80a892db8e3d15998878fc06739ef347f210aeb",
+      "published_sha256": "4d03b0281c942ed29e1eea43d80a892db8e3d15998878fc06739ef347f210aeb",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S30-runbox-terms-current.html.gz",
+      "original_sha256": "797105c89c9bdbaf92e046a4753d8263cd9e4f3081add7ea41df23231a421d9a",
+      "published_sha256": "797105c89c9bdbaf92e046a4753d8263cd9e4f3081add7ea41df23231a421d9a",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S30-runbox-terms-current.receipt.json",
+      "original_sha256": "a6b0f9b1cd675405c01010204e29440bc402216497961af313d3aa81938847d2",
+      "published_sha256": "a6b0f9b1cd675405c01010204e29440bc402216497961af313d3aa81938847d2",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S30-runbox-terms-current.txt",
+      "original_sha256": "c223af170e8864096c205058a3ced8dc2a3fdd63a708b9509e343e14c409e6c3",
+      "published_sha256": "c223af170e8864096c205058a3ced8dc2a3fdd63a708b9509e343e14c409e6c3",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S31-mailbox-privacy-june-exact.html.gz",
+      "original_sha256": "1dfc19623bce8717ec74feb2523b74e482204d224cc631b9591eea86622eca4c",
+      "published_sha256": "1dfc19623bce8717ec74feb2523b74e482204d224cc631b9591eea86622eca4c",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S31-mailbox-privacy-june-exact.receipt.json",
+      "original_sha256": "954b6928de49b079cfd1350190fffa0ad29816f3a2b0cc2a0c0e0203ab89ed0f",
+      "published_sha256": "1a1150db1735d9bd89f59a8ba61edc1f11ee346c68ece67e6e865ed9ab6070d2",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S31-mailbox-privacy-june-exact.txt",
+      "original_sha256": "77953be00e218bc18c558725b85efb321fb908d5689944622cbe230c3a671d85",
+      "published_sha256": "77953be00e218bc18c558725b85efb321fb908d5689944622cbe230c3a671d85",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S32-mailbox-privacy-current.html.gz",
+      "original_sha256": "ba828a8145acdd7f3e97b69227516c567505dd04ac5371e713daf80e38e61dd5",
+      "published_sha256": "ba828a8145acdd7f3e97b69227516c567505dd04ac5371e713daf80e38e61dd5",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S32-mailbox-privacy-current.receipt.json",
+      "original_sha256": "7e2ef73ae2c0d784d7d7b2f2a7010c2d2be5710a7784c0ee2cee64da2ffd690d",
+      "published_sha256": "7e2ef73ae2c0d784d7d7b2f2a7010c2d2be5710a7784c0ee2cee64da2ffd690d",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S32-mailbox-privacy-current.txt",
+      "original_sha256": "1ad5e1ed37addfcf8b698408ef557fe2e1a628557239e3aa29ebee97082be18b",
+      "published_sha256": "1ad5e1ed37addfcf8b698408ef557fe2e1a628557239e3aa29ebee97082be18b",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S33-mailbox-terms-current.html.gz",
+      "original_sha256": "663c913c75ccf3632e2e79ce502b096d141aa5388e42248406631bd4f055ccb5",
+      "published_sha256": "663c913c75ccf3632e2e79ce502b096d141aa5388e42248406631bd4f055ccb5",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S33-mailbox-terms-current.receipt.json",
+      "original_sha256": "59acb13fb963d73dbacf8941af9e5a01f99bdf21e4474f7e05cb02ce94f637af",
+      "published_sha256": "59acb13fb963d73dbacf8941af9e5a01f99bdf21e4474f7e05cb02ce94f637af",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S33-mailbox-terms-current.txt",
+      "original_sha256": "7d98b59de658a4b06d56333a748ac8d8afb3d9ca6ef1bca3e13df5029e13aba8",
+      "published_sha256": "7d98b59de658a4b06d56333a748ac8d8afb3d9ca6ef1bca3e13df5029e13aba8",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S34-mailbox-july-news.html.gz",
+      "original_sha256": "1b3da6a5aef105ae492728b20288581111437625fb4990d8fcc6d662de911401",
+      "published_sha256": "1b3da6a5aef105ae492728b20288581111437625fb4990d8fcc6d662de911401",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S34-mailbox-july-news.receipt.json",
+      "original_sha256": "ebeaeeeb9d4453f342009b2ce680fa62ac4d83de01d419ed4ec3e4960cf8129b",
+      "published_sha256": "ebeaeeeb9d4453f342009b2ce680fa62ac4d83de01d419ed4ec3e4960cf8129b",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S34-mailbox-july-news.txt",
+      "original_sha256": "1f987e4d020db1c5a53492a877e7783f96eee9c64b5d89b3b50c93b5ad049779",
+      "published_sha256": "1f987e4d020db1c5a53492a877e7783f96eee9c64b5d89b3b50c93b5ad049779",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S35-mailbox-terms-aug-exact.decoded.html.gz",
+      "original_sha256": "ea42e2259ace8cc0b3828cbdbefb94e6bb027c2691a8ae523e1ebed0ffa38965",
+      "published_sha256": "ea42e2259ace8cc0b3828cbdbefb94e6bb027c2691a8ae523e1ebed0ffa38965",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S35-mailbox-terms-aug-exact.html.gz",
+      "original_sha256": "82f29240fbd6445b4a0443aaf51c244097de4b3de9f3333a28067faa47b1a00d",
+      "published_sha256": "82f29240fbd6445b4a0443aaf51c244097de4b3de9f3333a28067faa47b1a00d",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S35-mailbox-terms-aug-exact.receipt.json",
+      "original_sha256": "221bd64b58592edb5fd71229c4af097983824347bc86c4a1cfec020215436c39",
+      "published_sha256": "786b87e59e8bb05cafc2ead19c870c5ed40f9a314a003fb2c8c520e4f88bb1fe",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S35-mailbox-terms-aug-exact.txt",
+      "original_sha256": "e931ee3bfab733949071782bfde79f3f447d083b1018f74aeadff35ec501f7b4",
+      "published_sha256": "e931ee3bfab733949071782bfde79f3f447d083b1018f74aeadff35ec501f7b4",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S4-db-privacy-current.html.gz",
+      "original_sha256": "67016aff7eeb5666b4096a986f76f4eba2c420c3c90e86b8d318dff78b68b82b",
+      "published_sha256": "67016aff7eeb5666b4096a986f76f4eba2c420c3c90e86b8d318dff78b68b82b",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S4-db-privacy-current.receipt.json",
+      "original_sha256": "62d79e59e4ca825fe4c976ce501684a37da658343a4079040314347385622a6d",
+      "published_sha256": "409d2da043cecd3661db7964f34e7c63d4df8e689f46093bcb794689e7de70dc",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S4-db-privacy-current.txt",
+      "original_sha256": "ec85ffbea799871feb95f5cdb4b3ec1a330cf834d9385d6878ee7ee0a453e693",
+      "published_sha256": "ec85ffbea799871feb95f5cdb4b3ec1a330cf834d9385d6878ee7ee0a453e693",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S5-db-privacy-upcoming.html.gz",
+      "original_sha256": "bf881d418faba56645214217d0de22c7669079dd2e79aa54806f4421274fb5b2",
+      "published_sha256": "bf881d418faba56645214217d0de22c7669079dd2e79aa54806f4421274fb5b2",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S5-db-privacy-upcoming.receipt.json",
+      "original_sha256": "b96675dd4fd28a2c9e519367dbd4178f1ef045935fb7d27ed16cf083056966c3",
+      "published_sha256": "231992fcc3755fd91db4d008ba36d8b8e5342fa72acb12aabf7323d1ab088e1e",
+      "status": "public derivative; cookies and/or local paths redacted"
+    },
+    {
+      "file": "Sources/S5-db-privacy-upcoming.txt",
+      "original_sha256": "84b4e18958bd4806ce1092eb6fe2d9c752c3afff970738caefcb81a057f5f010",
+      "published_sha256": "84b4e18958bd4806ce1092eb6fe2d9c752c3afff970738caefcb81a057f5f010",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S6-en-change-web.json",
+      "original_sha256": "b260002adff5e088b57932ffe3b9954f42748f6c111925349719bc4772d30c98",
+      "published_sha256": "b260002adff5e088b57932ffe3b9954f42748f6c111925349719bc4772d30c98",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S7-ms-current-web.json",
+      "original_sha256": "ae05f35f2bdf9634c1da471c567fc3c43be17c1a197e0c93fac7b278d84aa4a7",
+      "published_sha256": "ae05f35f2bdf9634c1da471c567fc3c43be17c1a197e0c93fac7b278d84aa4a7",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S8-ms-summary-web.json",
+      "original_sha256": "428364d38cc9cc89a5d61ec28a5912de7db5f8badfcdf37d8b3ec770a9e6c378",
+      "published_sha256": "428364d38cc9cc89a5d61ec28a5912de7db5f8badfcdf37d8b3ec770a9e6c378",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/S9-ms-old-web.json",
+      "original_sha256": "eadbb0d38c5a35e2c8c39cec1746c79c40724e34b050bebcbdeed3f7e168bf5c",
+      "published_sha256": "eadbb0d38c5a35e2c8c39cec1746c79c40724e34b050bebcbdeed3f7e168bf5c",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/apple-2025-2026.diff",
+      "original_sha256": "bbe8e5b1dec5f0d85028edadcf258cacef02e52d407716ae7bf267fb80428e65",
+      "published_sha256": "bbe8e5b1dec5f0d85028edadcf258cacef02e52d407716ae7bf267fb80428e65",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/apple-aug-replay.body.txt",
+      "original_sha256": "6c4107c0d9b336b4a707315ef04414767eabb9cea52bebde3716bfde0c87dc3d",
+      "published_sha256": "6c4107c0d9b336b4a707315ef04414767eabb9cea52bebde3716bfde0c87dc3d",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/apple-current.body.txt",
+      "original_sha256": "65c2ab07b8b72ee21910b9f73bb160473e6e4fd9800efb3514692b3d15530d3c",
+      "published_sha256": "65c2ab07b8b72ee21910b9f73bb160473e6e4fd9800efb3514692b3d15530d3c",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/apple-old.receipt.json",
+      "original_sha256": "e00f1388804917b9be0e321212bc4f4eb315e7eb42b857e557dc1caaaaade5cb",
+      "published_sha256": "e00f1388804917b9be0e321212bc4f4eb315e7eb42b857e557dc1caaaaade5cb",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/db-current-to-new.diff",
+      "original_sha256": "1e09621a553d40317e8f3951bba6c4d5796b00ac6c97d06241e4f0d883667d75",
+      "published_sha256": "1e09621a553d40317e8f3951bba6c4d5796b00ac6c97d06241e4f0d883667d75",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/db-privacy-current-to-new.diff",
+      "original_sha256": "cdf9260c6fd6780142885377cebeb11d6d138e2329609abf614b776d6b55422b",
+      "published_sha256": "cdf9260c6fd6780142885377cebeb11d6d138e2329609abf614b776d6b55422b",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/en-old-content-verification.json",
+      "original_sha256": "20b31b179c03d33ffba5315cecbdecae8b110654ca1a9318527fa9c197cf28d0",
+      "published_sha256": "20b31b179c03d33ffba5315cecbdecae8b110654ca1a9318527fa9c197cf28d0",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/en-old-content.txt",
+      "original_sha256": "ce22c433470d75edefe048d5db07d7dfab8d34db1a7d5b5a5ee4f99e88a3a43b",
+      "published_sha256": "ce22c433470d75edefe048d5db07d7dfab8d34db1a7d5b5a5ee4f99e88a3a43b",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/en-privacy-after-reconstructed.txt",
+      "original_sha256": "39202e1b0ff647f639ca1fdb7905005178055ccb6cd4ee0813059be97a5a20c9",
+      "published_sha256": "39202e1b0ff647f639ca1fdb7905005178055ccb6cd4ee0813059be97a5a20c9",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/en-privacy-before-reconstructed.txt",
+      "original_sha256": "4cd0be700d656bce10087c17a12f252b120c65da75c346f74638852e2a60543e",
+      "published_sha256": "4cd0be700d656bce10087c17a12f252b120c65da75c346f74638852e2a60543e",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/en-privacy-derived.diff",
+      "original_sha256": "18ee4696ea11336dddd300a0551398c9218d5b4fa58d2134ea2bb1068788c91c",
+      "published_sha256": "18ee4696ea11336dddd300a0551398c9218d5b4fa58d2134ea2bb1068788c91c",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/en-privacy-diff-rows.json",
+      "original_sha256": "461e8417bbc41cc4d24b4186a7ee616550692504e32e85c714d8f11c70bf3ddf",
+      "published_sha256": "461e8417bbc41cc4d24b4186a7ee616550692504e32e85c714d8f11c70bf3ddf",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/en-privacy-old.receipt.json",
+      "original_sha256": "bc4cd125844d8376e0da3d613d01a16126c4d8b2d5a6287020f0acefe04de1d1",
+      "published_sha256": "bc4cd125844d8376e0da3d613d01a16126c4d8b2d5a6287020f0acefe04de1d1",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/en-terms-old-replay.receipt.json",
+      "original_sha256": "b02fdb761b1bfab75f7b963c4a0625338af6763c3283a3a7464d99d110bf97ab",
+      "published_sha256": "b02fdb761b1bfab75f7b963c4a0625338af6763c3283a3a7464d99d110bf97ab",
+      "status": "unchanged"
+    },
+    {
+      "file": "Sources/ms-old.receipt.json",
+      "original_sha256": "2a46707a0ea12742463f75e2a368bd6c496f7e890c48347f7f8d2ac75f8dbcaf",
+      "published_sha256": "2a46707a0ea12742463f75e2a368bd6c496f7e890c48347f7f8d2ac75f8dbcaf",
+      "status": "unchanged"
+    },
+    {
+      "file": "The Quiet Rewrite - Four Months of Terms Data and Consent.pdf",
+      "original_sha256": "75da2631c8bfb1ea2a67cd2157d14a2371ae7f39d208b47cf19ebd133f65a2aa",
+      "published_sha256": "75da2631c8bfb1ea2a67cd2157d14a2371ae7f39d208b47cf19ebd133f65a2aa",
+      "status": "unchanged; also published as dossier.pdf"
+    },
+    {
+      "file": "dropbox-support-redacted.txt",
+      "original_sha256": "a3cc3f21f8297f061c56b5c12e96a36877e55a54970afa03ad2a0ca261aaa794",
+      "published_sha256": "c4700e46aef42779790958deae2067d044708aa501252f7cdaea0c43d1ca020b",
+      "status": "redacted plain-text derivative of original EML",
+      "date_header": "Tue, 27 Oct 2026 05:22:24 +0000"
+    },
+    {
+      "file": "runbox-acknowledgment-redacted.txt",
+      "original_sha256": "829fd4b8252148363ae0c6f9997257e444598235134c89139748ae21fda0e055",
+      "published_sha256": "2ab31ebccd23dabe1c153e2ba3971d06d40c9c922c95e484afee8ac8e78a3c36",
+      "status": "redacted plain-text derivative of original EML",
+      "date_header": "Sun, 25 Oct 2026 18:48:59 +0100"
+    },
+    {
+      "file": "dropbox-press-acknowledgment-redacted.txt",
+      "original_sha256": "5716312c240d11d26086ea6d48c5cb9c33c488c0133f09254df043149e05f744",
+      "published_sha256": "5ea58c19c0cb3cfe70a792d16e54a4bdde4693b1246c7f84c1c07ebd9a7d010d",
+      "status": "redacted plain-text derivative of original EML",
+      "date_header": "Sun, 25 Oct 2026 16:21:11 +0000"
+    }
+  ],
+  "excluded": [
+    "Unrelated Mistral account export",
+    "Original private EML transport headers and tracking HTML",
+    "Original local-only checksum list; replaced by public-package checksums"
+  ],
+  "preservation": "All originals retained unchanged locally."
+}

@@ -1,0 +1,428 @@
+{
+  "prepared_at_utc": "2026-10-25T17:30:58.105760+00:00",
+  "sources": [
+    {
+      "id": "S1",
+      "label": "OSF made-public log; 69hga / Sept 2",
+      "source_url": "https://api.osf.io/v2/logs/6a97cebe7b4afb6618d61304/",
+      "local_files": [
+        "S1-osf-publication-event.json.gz",
+        "S1-osf-publication-event.txt",
+        "S1-osf-publication-event.receipt.json",
+        "S1-osf-publication-event.json"
+      ],
+      "original_body_sha256": "79dc6554540d5adf4e3e14203bebc5acfc50cdc7c472fdbbf5886fdba07d25e9",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S2",
+      "label": "Dropbox terms / Jan 7, 2025",
+      "source_url": "https://www.dropbox.com/terms",
+      "local_files": [
+        "S2-db-current.html.gz",
+        "S2-db-current.txt",
+        "S2-db-current.receipt.json"
+      ],
+      "original_body_sha256": "9a4bd586222743020f1600d21025d1d4b46ec0e2e4deb58c8d48d5cf08c7ad29",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S3",
+      "label": "Dropbox upcoming terms / Sept 1, 2026",
+      "source_url": "https://www.dropbox.com/terms2026",
+      "local_files": [
+        "S3-db-upcoming.html.gz",
+        "S3-db-upcoming.txt",
+        "S3-db-upcoming.receipt.json"
+      ],
+      "original_body_sha256": "f3d943d391a43032d52a3b5d1d23d96ed42fc9eb950473100a638e116584a75e",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S4",
+      "label": "Dropbox privacy / May 30, 2025",
+      "source_url": "https://www.dropbox.com/privacy/",
+      "local_files": [
+        "S4-db-privacy-current.html.gz",
+        "S4-db-privacy-current.txt",
+        "S4-db-privacy-current.receipt.json"
+      ],
+      "original_body_sha256": "c895c54b6d7ff24478848b28b60a84fe51108cbb97be742ec784b4e94d33c5aa",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S5",
+      "label": "Dropbox upcoming privacy / Sept 1, 2026",
+      "source_url": "https://www.dropbox.com/privacy2026",
+      "local_files": [
+        "S5-db-privacy-upcoming.html.gz",
+        "S5-db-privacy-upcoming.txt",
+        "S5-db-privacy-upcoming.receipt.json"
+      ],
+      "original_body_sha256": "e9e312e19b6e14ad69214340e1b62c9bd3eb549468db99833c249d855a211fb4",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S6",
+      "label": "Evernote transition notice / Oct 1, 2026",
+      "source_url": "https://help.evernote.com/hc/en-us/articles/55887630067987-An-update-on-your-Evernote-agreements-our-Privacy-Policy-and-the-Terms-of-Service",
+      "local_files": [
+        "S6-en-change-web.json"
+      ],
+      "status": "Web-tool parsed excerpt; not original HTTP bytes"
+    },
+    {
+      "id": "S7",
+      "label": "Microsoft agreement / July 30, 2026",
+      "source_url": "https://www.microsoft.com/en-us/servicesagreement/",
+      "local_files": [
+        "S7-ms-current-web.json"
+      ],
+      "status": "Web-tool parsed excerpt; not original HTTP bytes"
+    },
+    {
+      "id": "S8",
+      "label": "Microsoft official change summary / 2026",
+      "source_url": "https://www.microsoft.com/en-us/servicesagreement/updates",
+      "local_files": [
+        "S8-ms-summary-web.json"
+      ],
+      "status": "Web-tool parsed excerpt; not original HTTP bytes"
+    },
+    {
+      "id": "S9",
+      "label": "Microsoft prior agreement / 2025, pp. 3, 26",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/mlsd/documents/servicesagreement/MSA_2025_en-us.pdf",
+      "local_files": [
+        "S9-ms-old-web.json"
+      ],
+      "status": "Web-tool parsed excerpt; not original HTTP bytes"
+    },
+    {
+      "id": "S10",
+      "label": "Evernote privacy / Oct 1, 2026",
+      "source_url": "https://evernote.com/privacy/policy",
+      "local_files": [
+        "S10-en-privacy-verified.html.gz",
+        "S10-en-privacy-verified.txt",
+        "S10-en-privacy-verified.receipt.json"
+      ],
+      "original_body_sha256": "f59ef21c535077cd133fc5ef17691c6659a7276261134a10b68cc64a8ca8716b",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S11",
+      "label": "Evernote terms / Oct 1, 2026",
+      "source_url": "https://evernote.com/legal/terms-of-service",
+      "local_files": [
+        "S11-en-current.html.gz",
+        "S11-en-current.txt",
+        "S11-en-current.receipt.json"
+      ],
+      "original_body_sha256": "30acbd51a656c76c7e2092a7bec84ed96b7d83877a3033139e03b4ff243e434d",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S12",
+      "label": "Apple iCloud terms / Sept 14, 2026",
+      "source_url": "https://www.apple.com/legal/internet-services/icloud/us-en/terms.html",
+      "local_files": [
+        "S12-apple-current.html.gz",
+        "S12-apple-current.txt",
+        "S12-apple-current.receipt.json"
+      ],
+      "original_body_sha256": "b327691fec528ca89c0986e98afd636543714cf024b86d00125a9513a4682c2c",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S13",
+      "label": "Apple Siri AI launch / Sept 14, 2026",
+      "source_url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+      "local_files": [
+        "S13-apple-siri-launch.html.gz",
+        "S13-apple-siri-launch.txt",
+        "S13-apple-siri-launch.receipt.json"
+      ],
+      "original_body_sha256": "8f1f4e2de19c713b155e36591bf33317b2eaa576b11b44ff0382a1f98b838d3f",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S14",
+      "label": "Apple Tahoe 26.6.2 security bulletin / WebKit",
+      "source_url": "https://support.apple.com/en-us/148281",
+      "local_files": [
+        "S14-apple-security.html.gz",
+        "S14-apple-security.txt",
+        "S14-apple-security.receipt.json"
+      ],
+      "original_body_sha256": "d793bc566753196f96d3caf8ae60615c33f78e256414704f6e09a7dd3aaf763d",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S15",
+      "label": "Apple Sept 2025 terms / archived Aug 29, 2026",
+      "source_url": "https://web.archive.org/web/20260829175847/https://www.apple.com/legal/internet-services/icloud/us-en/terms.html",
+      "local_files": [
+        "S15-apple-aug-replay.html.gz",
+        "S15-apple-aug-replay.txt",
+        "S15-apple-aug-replay.receipt.json",
+        "S15-apple-aug-replay.decoded.html.gz"
+      ],
+      "original_body_sha256": "47ed0815821fd634c2cd54f893fb5d4b9b494441d9a711265d03fc707333fa8d",
+      "http_content_encoding": "gzip",
+      "decoded_html_sha256": "4decbe605a99ff89f74b83ff1868e636aa295a3a44d9ec5d55254164e31630a4",
+      "status": "Archived Apple HTTP response; gzip wire body plus decoded HTML and text"
+    },
+    {
+      "id": "S16",
+      "label": "Evernote privacy excerpt / captured Aug 13, 2026",
+      "source_url": "https://isittrainingonme.com/evidence/evernote/79b1ca406fb2/2026-08-13T15-46-11Z/",
+      "local_files": [
+        "S16-en-privacy-monitor-before.html.gz",
+        "S16-en-privacy-monitor-before.txt",
+        "S16-en-privacy-monitor-before.receipt.json"
+      ],
+      "original_body_sha256": "b2ead8bb5c726b570a0eb2d870307fe2a77a14ed3c7eeade475febf8741c971e",
+      "status": "Third-party preserved historical excerpt, not complete original policy HTML"
+    },
+    {
+      "id": "S17",
+      "label": "Evernote Jan 2026 full terms / tracker version 1558",
+      "source_url": "https://tostracker.app/document/evernote/version/1558",
+      "local_files": [
+        "S17-en-old-tracker.html.gz",
+        "S17-en-old-tracker.txt",
+        "S17-en-old-tracker.receipt.json"
+      ],
+      "original_body_sha256": "2215934e8e039c28d4b8d33cdd2c5d6014cbe6a4aa309c285a2d6be371b809fe",
+      "status": "Complete tracker terms text; published SHA-256 reproduced independently"
+    },
+    {
+      "id": "S18",
+      "label": "Dropbox privacy FAQ / current context, undated here",
+      "source_url": "https://help.dropbox.com/security/privacy-policy-faq",
+      "local_files": [
+        "S18-db-faq.html.gz",
+        "S18-db-faq.txt",
+        "S18-db-faq.receipt.json"
+      ],
+      "original_body_sha256": "67e910155bda6e4ba4e0199ec7aae7bc9aefd852ca5f53fabec2e18c1ace1f6c",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S19",
+      "label": "Evernote privacy redline / Aug 13-Oct 5 captures",
+      "source_url": "https://isittrainingonme.com/changes/2026-10-05T14-22-32-evernote-privacy/",
+      "local_files": [
+        "S19-en-privacy-monitor-diff.html.gz",
+        "S19-en-privacy-monitor-diff.txt",
+        "S19-en-privacy-monitor-diff.receipt.json"
+      ],
+      "original_body_sha256": "a91babeabc9ed172b5009a0cd95edbc7435f5a35fefdbcf574a49d27305fa1d5",
+      "status": "Earlier partial recovery; superseded for main-policy verification by S21-S23"
+    },
+    {
+      "id": "S20",
+      "label": "Evernote Feb 11 Wayback / parsed corroboration",
+      "source_url": "https://web.archive.org/web/20260211124425/https://evernote.com/legal/terms-of-service",
+      "local_files": [
+        "S20-en-wayback-web.json"
+      ],
+      "status": "Web-tool parsed excerpt; not original HTTP bytes"
+    },
+    {
+      "id": "S21",
+      "label": "Evernote complete January policy / June 24 archive",
+      "source_url": "https://web.archive.org/web/20260624143218/https://evernote.com/privacy/policy",
+      "local_files": [
+        "S21-en-privacy-june-full.html.gz",
+        "S21-en-privacy-june-full.txt",
+        "S21-en-privacy-june-full.receipt.json"
+      ],
+      "original_body_sha256": "2337ba89ee7b81cc76c9544f05c1314cda30d5f5a9d5edc0b9e3d030824071a2",
+      "status": "Complete archived official policy HTML; Wayback capture 2026-06-24T14:32:18Z",
+      "additional_evidence_directory": "Evernote complete policy recovery"
+    },
+    {
+      "id": "S22",
+      "label": "Evernote complete policy / September 3 mirror",
+      "source_url": "https://github.com/OpenTermsArchive/contrib-snapshots/blob/3b51747c51af588edd57c62861b6f1d9a7b3599b/Evernote/Privacy%20Policy.html",
+      "local_files": [
+        "S22-en-privacy-sept-mirror.html.gz",
+        "S22-en-privacy-sept-mirror.txt",
+        "S22-en-privacy-sept-mirror.receipt.json"
+      ],
+      "original_body_sha256": "62b597d69972f90b209ad61520a8e10fc194523979242b9794670cf8974f678b",
+      "status": "Complete HTML from pinned independent repository snapshot; policy text identical to S21",
+      "additional_evidence_directory": "Evernote complete policy recovery"
+    },
+    {
+      "id": "S23",
+      "label": "Evernote policy changes / October 2 commit",
+      "source_url": "https://github.com/OpenTermsArchive/contrib-versions/commit/21995a78fe26622f1d45e8c403ab8f489d663c0c",
+      "local_files": [
+        "S23-en-privacy-oct-commit.json.gz",
+        "S23-en-privacy-oct-commit.txt",
+        "S23-en-privacy-oct-commit.receipt.json",
+        "S23-en-privacy-oct-commit.json"
+      ],
+      "original_body_sha256": "9b70450c3db7a4f836a7f85257721adcfef074ba609e8d8bc7f4f2d206695da2",
+      "status": "GitHub commit metadata and full policy patch; recorded 2026-10-02T00:37:52Z",
+      "additional_evidence_directory": "Evernote complete policy recovery"
+    },
+    {
+      "id": "S24",
+      "label": "Boxy older privacy notice / archived May 19, 2026",
+      "source_url": "https://web.archive.org/web/20260519040313/https://boxy.runbox.com/boxy-privacy.html",
+      "local_files": [
+        "S24-runbox-boxy-may-replay.html.gz",
+        "S24-runbox-boxy-may-replay.txt",
+        "S24-runbox-boxy-may-replay.receipt.json"
+      ],
+      "original_body_sha256": "4a77cab1df4ce9e259879012edea2b89874c9dd90396ad56de4e3e1f36991ae2",
+      "status": "Historical official notice, Wayback standard replay with archive wrapper; policy extracted separately",
+      "additional_evidence_directory": "Mail policy comparison"
+    },
+    {
+      "id": "S25",
+      "label": "Boxy privacy notice / retrieved October 25, 2026",
+      "source_url": "https://boxy.runbox.com/boxy-privacy.html",
+      "local_files": [
+        "S25-runbox-boxy-policy.html.gz",
+        "S25-runbox-boxy-policy.txt",
+        "S25-runbox-boxy-policy.receipt.json"
+      ],
+      "original_body_sha256": "ca36998e64aaae3af4e03ccb8dc66aee5d33bdc11fbe7979cad6cad2d2a97e73",
+      "status": "Current official chatbot notice; Last-Modified is not a verified first-change date",
+      "additional_evidence_directory": "Mail policy comparison"
+    },
+    {
+      "id": "S26",
+      "label": "Runbox general AI policy / October 8, 2026",
+      "source_url": "https://runbox.com/about/runbox-generative-ai-policy/",
+      "local_files": [
+        "S26-runbox-ai-current.html.gz",
+        "S26-runbox-ai-current.txt",
+        "S26-runbox-ai-current.receipt.json"
+      ],
+      "original_body_sha256": "b322d15a5914b13f6ab35839e6a79c5fa9a8856ede96b5c9764ea54cabf7ddd4",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S27",
+      "label": "Runbox Boxy article / May 6, still live October 25",
+      "source_url": "https://runbox.com/blog/2026/05/ai-llms-and-boxy/",
+      "local_files": [
+        "S27-runbox-may-boxy.html.gz",
+        "S27-runbox-may-boxy.txt",
+        "S27-runbox-may-boxy.receipt.json"
+      ],
+      "original_body_sha256": "c87b436e739b188626a5f07e655871e8041153b89630c0600726400a11b6b6c3",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S28",
+      "label": "Runbox support migration / August 17, 2026",
+      "source_url": "https://runbox.com/blog/2026/08/introducing-a-stronger-more-resilient-support-system/",
+      "local_files": [
+        "S28-runbox-aug-support.html.gz",
+        "S28-runbox-aug-support.txt",
+        "S28-runbox-aug-support.receipt.json"
+      ],
+      "original_body_sha256": "30dcb95974ba70ce69ceaa1bc831b76449f9265cac979d402b74c51bfc600892",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S29",
+      "label": "Runbox core privacy policy / dated April 25, 2018",
+      "source_url": "https://runbox.com/about/privacy-policy/",
+      "local_files": [
+        "S29-runbox-privacy-current.html.gz",
+        "S29-runbox-privacy-current.txt",
+        "S29-runbox-privacy-current.receipt.json"
+      ],
+      "original_body_sha256": "ca1662246bb7fd569ec3bfbdca12a6252a1d5c3ee926ca852f4388997f514121",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S30",
+      "label": "Runbox service terms / dated April 24, 2018",
+      "source_url": "https://runbox.com/about/terms-service/",
+      "local_files": [
+        "S30-runbox-terms-current.html.gz",
+        "S30-runbox-terms-current.txt",
+        "S30-runbox-terms-current.receipt.json"
+      ],
+      "original_body_sha256": "636fd058dec5583632aefc3d4a585be8460c106ffff0b5e017ada0c5ca0f5ed6",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S31",
+      "label": "Mailbox.org privacy / archived June 15, 2026",
+      "source_url": "https://web.archive.org/web/20260615050825/https://mailbox.org/en/data-protection/",
+      "local_files": [
+        "S31-mailbox-privacy-june-exact.html.gz",
+        "S31-mailbox-privacy-june-exact.txt",
+        "S31-mailbox-privacy-june-exact.receipt.json"
+      ],
+      "original_body_sha256": "e7383d271793098bf7ba3cc756df3ca5fedb172ef09aaeffd4ff4a8f6d912238",
+      "status": "Complete historical privacy notice; extracted policy text exactly matches S32",
+      "additional_evidence_directory": "Mail policy comparison"
+    },
+    {
+      "id": "S32",
+      "label": "Mailbox.org privacy / retrieved October 25, 2026",
+      "source_url": "https://mailbox.org/en/data-protection/",
+      "local_files": [
+        "S32-mailbox-privacy-current.html.gz",
+        "S32-mailbox-privacy-current.txt",
+        "S32-mailbox-privacy-current.receipt.json"
+      ],
+      "original_body_sha256": "b0fdc49784cb46c2c5653e19978ab618c0bde4650e258ef3b17d7db1e30987b6",
+      "status": "Original HTTP body plus derived text",
+      "additional_evidence_directory": "Mail policy comparison"
+    },
+    {
+      "id": "S33",
+      "label": "Mailbox.org general terms / current, matching August archive",
+      "source_url": "https://mailbox.org/en/t-cs-cancellation-policy/",
+      "local_files": [
+        "S33-mailbox-terms-current.html.gz",
+        "S33-mailbox-terms-current.txt",
+        "S33-mailbox-terms-current.receipt.json"
+      ],
+      "original_body_sha256": "756b5ff51fb04608b68236a8193d133f32f8e3c277ef6b1c65712227b456970f",
+      "status": "Original HTTP body plus derived text",
+      "additional_evidence_directory": "Mail policy comparison"
+    },
+    {
+      "id": "S34",
+      "label": "Mailbox.org price/storage announcement / July 15, 2026",
+      "source_url": "https://mailbox.org/en/news/plan-adjustment-2026/",
+      "local_files": [
+        "S34-mailbox-july-news.html.gz",
+        "S34-mailbox-july-news.txt",
+        "S34-mailbox-july-news.receipt.json"
+      ],
+      "original_body_sha256": "c6bf4e229aa2ff2c5d53d230a053324383eda0b57ecabae69be20bbbdf8aa18e",
+      "status": "Original HTTP body plus derived text"
+    },
+    {
+      "id": "S35",
+      "label": "Mailbox.org full general terms / August 27 archive",
+      "source_url": "https://web.archive.org/web/20260827114942/https://mailbox.org/en/t-cs-cancellation-policy/",
+      "local_files": [
+        "S35-mailbox-terms-aug-exact.html.gz",
+        "S35-mailbox-terms-aug-exact.txt",
+        "S35-mailbox-terms-aug-exact.receipt.json",
+        "S35-mailbox-terms-aug-exact.decoded.html.gz"
+      ],
+      "original_body_sha256": "6b56a5bbf9ea4c22d840e5bce3315adba4c1809f200020b7e08bceee325ac073",
+      "status": "Full archived terms, gzip wire body; extracted text exactly matches S33",
+      "http_content_encoding": "gzip",
+      "decoded_html_sha256": "0faeda302ab5d8a2064658213d1ba7812260feff95ac155ef437d25042e0611e",
+      "additional_evidence_directory": "Mail policy comparison"
+    }
+  ],
+  "publication_note": "Paths are inside evidence.zip. Original body hashes describe preserved source response bodies; public receipt redactions are recorded in evidence-manifest.json."
+}

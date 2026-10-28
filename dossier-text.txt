@@ -1,0 +1,625 @@
+ THE QUIET REWRITE / 01 / FINDINGS
+
+
+
+
+ The Quiet Rewrite
+ Four months of terms, data and consent | Apple, Dropbox, Evernote, Microsoft; Runbox and mailbox.org follow-up
+ Review window: June 25-October 25, 2026 | Prepared October 25, 2026
+
+ A cloud account can keep the same name while the bargain beneath it changes. This compact record
+ follows changes in who may process information, who may interrupt access, and how users can
+ challenge a decision.
+
+ Finding: There are material changes worth examining, but the dates do not support a four-company
+ response to Fifty Milliseconds Before Consent. Its OSF project became public on September 2. Two
+ reviewed revisions were announced earlier. [S1-S3, S7]
+
+
+    Company            What deserves attention                                         Relation to September 2
+
+
+    Dropbox            Shorter free-account inactivity period; linked-account          Posted September 1: before.
+                       consequences; new age signals and admin visibility.             Effective January 1, 2027.
+
+
+    Evernote           Removed general consent assurance; explicit analytics           October 1 update: after.
+                       and advertising rules; stronger AI no-training promise.         December 1 for existing users.
+
+
+    Apple              Recovered baseline confirms added over-quota deletion           September 14 revision: after.
+                       clause and refusal-of-update access warning.                    Compared with August 29
+                                                                                       archive.
+
+
+    Microsoft          Changed U.S. arbitration provider and related-case              Published July 30: before.
+                       process. Examined content/AI permissions already                Effective September 30.
+                       existed.
+
+
+
+ Mail-service follow-up: Runbox’s archived Boxy notice excludes user-message logging; today’s notice includes it and AI
+ review. The change date is unresolved. Mailbox.org’s main privacy notice matches its June archive. See pages 8-9.
+ [S24-S25, S31-S32]
+
+
+ What the evidence supports
+ The strongest retention changes are Dropbox’s halved inactivity interval and Apple’s new over-quota
+ deletion clause. Evernote removes a general new-purpose consent assurance, adds tracking rules, and
+ strengthens the AI no-training promise. These are contract and privacy-policy changes; the sources do
+ not establish unauthorized disclosure or a response to the investigation. [S2-S8, S10-S17, S19,
+ S21-S23]
+
+ Evidence grades throughout: direct comparison; provider-described change; current wording with unverified novelty. No
+ emails were sent and no accounts or policies were changed.
+
+
+
+
+THE QUIET REWRITE | Evidence snapshot: October 25, 2026                                                                   1
+ THE QUIET REWRITE / 02 / CHRONOLOGY
+
+
+
+
+ Put publication before inference
+ Announcement, revision, effective date and archive capture are different events.
+
+
+    Date                   Documented event                                                        Timing
+
+
+    February 11            Evernote January terms captured; full tracker text recovered and        Earlier comparison
+                           its published hash reproduced. [S17, S20]
+
+
+    July 30                Microsoft publishes the new Services Agreement. [S7-S9]                 34 calendar days
+                                                                                                   before
+
+
+    June 24 / August       Complete Evernote January policy captured / Apple September             Before
+    29                     2025 terms archived. [S15, S21]
+
+
+    September 1            Dropbox posts upcoming terms and privacy policy. [S3, S5]               1 day before
+
+
+    September 2            OSF project 69hga is made public. [S1]                                  Comparison anchor
+
+
+    September 3 /          Evernote mirror changes only footer URLs, not policy text / Apple       1 / 12 days after
+    14                     dates iCloud revision. [S12, S22]
+
+
+    September 30           Microsoft’s July agreement takes effect. [S7]                           Effective date only
+
+
+    October 1 / 2          Evernote dates revised policy / Open Terms Archive records              29 / 30 days after
+                           substantive changes at 00:37:52 UTC. [S10, S23]
+
+
+    December 1 /           Evernote existing-user transition / Dropbox effective date. [S3, S6]    Future at review
+    January 1                                                                                      date
+
+
+
+
+ The publication anchor is an event, not a filename
+ The live OSF log identifies action made_public, project 69hga, event
+ 6a97cebe7b4afb6618d61304, and timestamp 2026-09-02T07:22:38.889947 (API string as
+ returned). The October 21 backup agrees. Registration c8fb6 records September 2 at
+ 07:58:01.244169. The project-public event is the anchor used here. [S1]
+
+ Calendar-day offsets use date labels, not purported exact intervals between publication times. A matching date sequence
+ cannot identify awareness, motive, coordination or the date a policy was drafted.
+
+
+
+
+THE QUIET REWRITE | Evidence snapshot: October 25, 2026                                                                    2
+ THE QUIET REWRITE / 03 / DROPBOX
+
+
+
+
+ Access can fail across accounts
+ Direct comparison: January 7, 2025 terms versus September 1, 2026 posting, effective January 1, 2027. Privacy baseline:
+ May 30, 2025. [S2-S5]
+
+
+    Issue                     Earlier wording / rule                         Upcoming wording / rule
+
+
+    Free-account              12 consecutive months without access.          6 consecutive months: half the interval.
+    inactivity                                                               Notice and an opportunity to
+                                                                             remedy/export remain.
+
+
+    Age restriction           13 in the U.S.; 16 elsewhere, subject to       18; enforcement may use third-party
+                              higher local requirements.                     information, including app-store age
+                                                                             signals.
+
+
+    Linked access             No equivalent linked-workspace                 Action against one account may affect
+                              paragraph in the compared text.                other accounts sharing its email address.
+
+
+    Admin visibility          Team-admin control and access were             Admins may see state changes in other
+                              already disclosed.                             accounts using the same email address.
+
+
+
+
+ Two small phrases, substantial consequences
+ Earlier: “12 consecutive months.” Upcoming: “6 consecutive months.” [S2-S3]
+
+ These are concrete account-retention and access risks for dormant research collections. The added
+ privacy sentence also makes cross-account status visibility explicit. It does not say admins can read
+ every unrelated account’s files. [S3, S5]
+
+
+ What did not become new
+ The feature-related permission to scan stored content and involve affiliates or trusted third parties
+ appears in both versions. AI and machine-learning references also exist in the earlier privacy policy.
+ The current FAQ describes service improvement and some manual review, but this comparison does
+ not date those practices to September. [S2-S5, S18]
+
+ Exact locators: Terms / Termination; Your Responsibilities; Your Accounts; Dropbox Teams. Privacy / With Whom / Team
+ Admins. Raw before/after snapshots and normalized differences are included. The posting predates the OSF publication
+ anchor.
+
+
+
+
+THE QUIET REWRITE | Evidence snapshot: October 25, 2026                                                                    3
+ THE QUIET REWRITE / 04 / EVERNOTE
+
+
+
+
+ Consent has a longer shadow
+ Complete January policy recovered twice: June 24 Wayback capture and September 3 repository snapshot. Their extracted
+ policy bodies match exactly. Compared with the October 1 policy. [S10, S21-S23]
+
+
+    Issue                   Earlier policy                                  October policy
+
+
+    Unspecified new         Express promise to request consent before       That sentence is absent. This removes an
+    purposes                using data for a purpose absent from the        explicit assurance; it does not establish
+                            policy.                                         that an undisclosed use occurred.
+
+
+    First-party             Main policy refers readers to a separate        Expressly treats some first-party analytics
+    analytics               Cookie Notice; no equivalent                    as technical trackers without consent
+                            analytics-exemption sentence.                   where lawful; contact-based opt-out
+                                                                            remains.
+
+
+    Consent                 No equivalent processing-after-withdrawal       Further collection stops, but previously
+    withdrawal              paragraph in this main policy.                  collected data may still be processed where
+                                                                            law permits.
+
+
+    Advertising             Personalized advertising and related            Adds explicit non-personalized advertising
+                            consent already described.                      using limited data, such as
+                                                                            country/language, under legitimate
+                                                                            interests.
+
+
+    Browser signals         States it does not act on Do Not Track.         Adds recognition of legally applicable GPC
+                                                                            opt-outs for targeted-advertising
+                                                                            sale/sharing. GPC and DNT are different
+                                                                            signals.
+
+
+
+
+ The strongest newly verified omission
+ “We’ll ask for your consent before using your personal data for a purpose not
+ described in this Privacy Policy.” [S21-S22]
+
+ The complete October text lacks that assurance. The main-policy additions on analytics and retained
+ data are also directly verifiable. Earlier tracking itself is not new: the old policy disclosed cookies,
+ usage collection, advertising and a separate Cookie Notice. [S10, S21-S22]
+
+ Exact sections: How do we use your data?; How do we use cookies and similar technologies?; How do we respond to
+ browser-based privacy signals? Numbered full-policy extracts and a local redline are preserved. The earlier separate
+ Cookie Notice was located but not recovered, so the first appearance of these rules across all incorporated documents
+ remains unverified.
+
+
+
+
+THE QUIET REWRITE | Evidence snapshot: October 25, 2026                                                                   4
+ THE QUIET REWRITE / 05 / EVERNOTE
+
+
+
+
+ AI promises and access boundaries
+ The full comparison separates training, ordinary processing, human access and third-party connections. [S10, S21-S23]
+
+
+    Issue                    Earlier policy                                     October policy
+
+
+    Training                 AI input/output excluded from training             Removes that exception; expressly
+                             unless the user directs otherwise.                 extends the no-training statement to
+                                                                                third-party model providers.
+
+
+    Built-in AI              AI mentioned alongside improvement of              Dedicated section explains input/output
+    processing               the service; supplemental terms                    processing, contracted providers and
+                             referenced.                                        account controls to manage or disable AI.
+
+
+    User-connected           Voluntary third-party access required              Specifically distinguishes connected
+    services                 notice/agreement; external policies                Claude/ChatGPT from Evernote’s AI
+                             applied.                                           providers. Their own policies govern.
+
+
+    Human access to          Permission or legal necessity required;            The full section on human access is
+    notes                    support/review permissions described.              unchanged, including permission and
+                                                                                legal-necessity limits.
+
+
+
+
+ Independent copies, matching text
+ The 5,004-word older main policy is available as archived HTML and an independent repository copy.
+ Their extracted policy text has the same SHA-256. The September 3 commit changed only seven
+ footer links to regional URLs. The October 2 commit records the substantive revision; the current page
+ says October 1. These are capture and revision dates, not evidence of motive. [S21-S23]
+
+
+ The agreement changes remain separate
+ Evernote’s official notice transfers the service contract to Bending Spoons Operations S.p.A.; the
+ January terms already named that Italian company as software owner. October terms also make
+ human/automated investigations and temporary blocking explicit, while earlier terms already
+ permitted suspension and removal. [S6, S11, S17]
+
+ Exact AI locators: old How do we use your data? / Maintain and improve the Services; current What data is processed
+ when you use an Evernote AI Feature? Human access: Would someone at Evernote ever view your Content? Local
+ verification records identical human-access text. This replaces the earlier dossier’s incomplete-privacy-policy limitation.
+
+
+
+
+THE QUIET REWRITE | Evidence snapshot: October 25, 2026                                                                        5
+ THE QUIET REWRITE / 06 / APPLE
+
+
+
+
+ The storage ceiling becomes a
+ deadline
+ Direct comparison: September 15, 2025 terms captured August 29, 2026 versus September 14, 2026 terms. Same
+ U.S.-English URL. [S12, S15]
+
+
+    Clause                 Recovered September 2025 terms                  September 2026 terms
+
+
+    I.C / Over quota       Exceeding limits could stop backups,            Adds explicit deletion of stored data
+                           documents and incoming email; repeated          exceeding the limit after 30 days’ notice.
+                           violations could terminate access.
+
+
+    I.E / Updates          Material-adverse-change notice and              Retains those protections; adds that
+                           paid-term protections, with exceptions.         refusing agreement updates may cause
+                                                                           loss of service access.
+
+
+    II.G.6 / iCloud+       No Apple Intelligence feature clause in this    Adds Apple Intelligence, including Siri AI,
+                           baseline.                                       with potential usage limits.
+
+
+    Opening / Scope        Governs iCloud product, software, services      Explicitly includes use of the Apple Account.
+                           and websites.
+
+
+
+
+ A specific expansion, not the first deletion power
+ Earlier clauses already allowed deletion following failed payment, account termination and 180 days
+ without a device backup. The new I.C sentence expressly ties deletion to excess storage. It does not
+ identify which files would be selected or their order. [S12, S15]
+
+
+ Dates that can now be checked
+ Wayback returned the full archived page with Memento-Datetime: August 29, 2026, 17:58:47
+ GMT and the original Apple response date one second later. The archived text is revised September
+ 15, 2025. The current revision is twelve calendar days after the September 2 OSF event; that sequence
+ does not establish causation. [S1, S12, S15]
+
+ Separate privacy issue: Apple documents Private Relay IP disclosure, CVE-2026-65352, fixed in the
+ August 17 release; the bulletin entry was added September 14. The cited entry does not establish
+ exploitation. [S14]
+
+ Preserved: original compressed archive response, decoded HTML, text, response headers, exact source URLs and a local
+ redline. The earlier failed June replay is superseded by this successful August recovery. No login, account change or
+ contact with Apple was needed.
+
+
+
+
+THE QUIET REWRITE | Evidence snapshot: October 25, 2026                                                                  6
+ THE QUIET REWRITE / 07 / MICROSOFT
+
+
+
+
+ The change is in the remedy
+ Published July 30, 2026; effective September 30, 2026. Earlier comparison: official 2025 agreement. [S7-S9]
+
+
+    Provision                2025 agreement                                  2026 agreement / change
+
+
+    Content license          Service-related worldwide, royalty-free         The examined permission remains. It is not
+                             permission appears in section 2.b, PDF          newly introduced in this four-month
+                             page 3.                                         window.
+
+
+    AI input/output          Processing and storage for abuse                The examined wording remains in section
+                             prevention already appears in section           14.s.v.
+                             14.s.v, PDF page 26.
+
+
+    U.S. arbitration         AAA under the earlier provisions.               JAMS replaces AAA for arbitrations initiated
+                                                                             after effectiveness; related cases include a
+                                                                             mediation step.
+
+
+    Coverage                 Earlier introductory scope referred to the      Introduction includes products, websites
+                             listed services.                                and services referring to the agreement.
+
+
+
+
+ Why it matters
+ Changing a dispute forum and procedures affects how customers pursue claims. The official summary
+ also clarifies Copilot coverage and product naming. These are substantive contract observations, but
+ the reviewed changes do not establish a new right to use all private documents for AI training. [S7-S9]
+
+
+ The timing cuts against a later-response theory
+ July 30 is 34 calendar days before the September 2 OSF publication event. September 30 is an
+ effective date, not evidence that the agreement was first conceived or announced after the
+ investigation. [S1, S7-S8]
+
+ Earlier PDF page numbers are one-based. The official 37-page PDF was readable through the web retrieval service, while
+ direct download returned HTTP 403. This packet therefore contains labeled parsed excerpts and source links, not a
+ claimed original binary copy. Current agreement and change-summary captures are likewise labeled.
+
+
+ A bounded conclusion
+ The useful record is specific: shorter dormancy, interconnected accounts, changing contractual parties,
+ AI-provider boundaries and altered dispute procedures. Evidence of a coordinated response, covert
+ access or a breach would require additional records. This review did not find those records.
+
+
+
+
+THE QUIET REWRITE | Evidence snapshot: October 25, 2026                                                                     7
+ THE QUIET REWRITE / 08 / RUNBOX
+
+
+
+
+ The chat now leaves a record
+ Direct comparison of Boxy privacy disclosures: May 19, 2026 archive versus October 25 retrieval. This is the optional
+ support chatbot, not a new mailbox-wide Terms of Service. [S24-S25]
+
+
+    Issue                  Archived Boxy notice                              Current Boxy notice
+
+
+    User messages          Explicitly excluded from Runbox logs and          Both sides logged; user messages sanitized
+                           retention.                                        before storage. Legitimate interests stated
+                                                                             as the basis.
+
+
+    Retention              Bot replies retained for 30 days in Norway.       Conversation logs retained for 10 days in
+                                                                             Norway; authorized staff access.
+
+
+    AI providers and       Anthropic/Claude; U.S. processing under           Lists Mistral AI, Scaleway, OnshoreAI and
+    routing                SCCs; Cloudflare described as intermediary.       TensorX; direct API calls from Norway.
+                                                                             Mojeek supplies search.
+
+
+    Further                No equivalent daily log-review or                 Mistral screens messages and reviews
+    processing             translation disclosure in the recovered           sanitized logs daily; staff may request
+                           notice.                                           translation. Providers described as not
+                                                                             training on messages.
+
+
+
+
+ A real disclosure change, with an unresolved start date
+ The scope of retained chatbot data is broader even though the stated retention period is shorter.
+ Added processing purposes and a different provider list deserve notice. A full comparison and
+ numbered extracts are preserved. The sources do not show when each feature was deployed.
+ [S24-S25]
+
+
+ The public explanations do not agree
+ The still-live May 6 article says user messages are never retained; the current Boxy policy expressly
+ includes them. The October 8 general AI policy still describes logging bot responses, without explaining
+ the newer two-sided logging and daily review. This is a documented disclosure inconsistency.
+ [S25-S27]
+
+ Exact locators: older How Boxy works / What happens to your messages; current What is logged and why / What happens
+ to your messages / Web search. No evidence here shows Boxy accessing a mailbox or research attachment, or links this
+ revision to the author’s investigation. The general AI policy says Boxy has no account or email access. [S26]
+
+
+
+
+THE QUIET REWRITE | Evidence snapshot: October 25, 2026                                                                    8
+ THE QUIET REWRITE / 09 / MAIL POLICIES
+
+
+
+
+ The dates set the boundary
+ A changed chatbot notice is established. A rapid mailbox-wide data-rights expansion is not established for either provider.
+
+
+ Mailbox.org: the recovered baseline holds
+ The complete English data-protection notice archived on June 15 at 05:08:25 UTC matches the October
+ 25 policy text exactly after navigation is excluded: 6,243 words, including all sections through the
+ January 27, 2026 version date. The matching text and SHA-256 are saved. [S31-S32]
+
+ Its summer announcement changes Standard/Premium prices and storage, effective July 15 for new
+ private customers and September 1 for existing customers. It expressly leaves Light unchanged. That
+ announcement does not add rights to read mail or train AI. The full general-terms body also matches
+ an August 27 archive exactly: 5,464 words covering withdrawal, prepaid and business provisions.
+ These matched snapshots do not exclude an intermediate revision that was later reverted. [S33-S35]
+
+
+    Date / source             What it establishes                              What it cannot establish
+
+
+    May 19 / S24              Archived Boxy notice: no user-message            This baseline falls before the four-month
+                              logs.                                            window.
+
+
+    August 17 / S28           Support migration ends users’ access to          Does not establish backend deletion or
+                              old tickets; open enquiries continue.            data disclosure.
+
+
+    September 2 / S1          The OSF investigation becomes public.            Does not date the Boxy policy change.
+
+
+    October 8 / S26           General AI policy carries this update date,      Does not date every Boxy feature or
+                              corroborated by page metadata.                   change.
+
+
+    October 18 / S25          Boxy response reports Last-Modified              Server-supplied metadata is not proof of
+                              11:50:02 GMT.                                    first publication.
+
+
+    October 25 / S25          Current two-sided logging and daily review       Does not prove deployment, affected
+                              wording retrieved.                               users or motivation.
+
+
+
+ Runbox’s core privacy and service terms still display April 2018 update dates. Their older archive replays were unavailable
+ in this review; those displayed dates alone cannot prove unchanged wording. The verified addition is the Boxy
+ comparison, with its narrower scope and dating limits. [S29-S30]
+
+
+
+
+THE QUIET REWRITE | Evidence snapshot: October 25, 2026                                                                        9
+ THE QUIET REWRITE / 10 / SOURCE REGISTER
+
+
+
+
+ Enough to audit, small enough to
+ keep
+ Every source below is linked. Receipts and SHA-256 checksums identify the local copies; hashes establish local integrity,
+ not the truth of a policy’s assertions.
+
+ S1 OSF made-public log; 69hga / Sept 2
+
+ S2 Dropbox terms / Jan 7, 2025
+
+ S3 Dropbox upcoming terms / Sept 1, 2026
+
+ S4 Dropbox privacy / May 30, 2025
+
+ S5 Dropbox upcoming privacy / Sept 1, 2026
+
+ S6 Evernote transition notice / Oct 1, 2026
+
+ S7 Microsoft agreement / July 30, 2026
+
+ S8 Microsoft official change summary / 2026
+
+ S9 Microsoft prior agreement / 2025, pp. 3, 26
+
+ S10 Evernote privacy / Oct 1, 2026
+
+ S11 Evernote terms / Oct 1, 2026
+
+ S12 Apple iCloud terms / Sept 14, 2026
+
+ S13 Apple Siri AI launch / Sept 14, 2026
+
+ S14 Apple Tahoe 26.6.2 security bulletin / WebKit
+
+ S15 Apple Sept 2025 terms / archived Aug 29, 2026
+
+ S16 Evernote privacy excerpt / captured Aug 13, 2026
+
+ S17 Evernote Jan 2026 full terms / tracker version 1558
+
+ S18 Dropbox privacy FAQ / current context, undated here
+
+ S19 Evernote privacy redline / Aug 13-Oct 5 captures
+
+ S20 Evernote Feb 11 Wayback / parsed corroboration
+
+ S21 Evernote complete January policy / June 24 archive
+
+ S22 Evernote complete policy / September 3 mirror
+
+ S23 Evernote policy changes / October 2 commit
+
+
+
+
+THE QUIET REWRITE | Evidence snapshot: October 25, 2026                                                                      10
+ THE QUIET REWRITE / 11 / MAIL SOURCES
+
+
+
+
+ The mail-policy record
+ Historical and current notices, provider announcements and the limits of each comparison.
+
+ S24 Boxy older privacy notice / archived May 19, 2026
+
+ S25 Boxy privacy notice / retrieved October 25, 2026
+
+ S26 Runbox general AI policy / October 8, 2026
+
+ S27 Runbox Boxy article / May 6, still live October 25
+
+ S28 Runbox support migration / August 17, 2026
+
+ S29 Runbox core privacy policy / dated April 25, 2018
+
+ S30 Runbox service terms / dated April 24, 2018
+
+ S31 Mailbox.org privacy / archived June 15, 2026
+
+ S32 Mailbox.org privacy / retrieved October 25, 2026
+
+ S33 Mailbox.org general terms / current, matching August archive
+
+ S34 Mailbox.org price/storage announcement / July 15, 2026
+
+ S35 Mailbox.org full general terms / August 27 archive
+
+
+ Preservation and limits
+ Sources contains compressed original HTTP bodies where retrieved, readable text extracts, response receipts and parsed
+ web captures where direct downloads failed. SOURCE_INDEX.json maps the numbered references to files and URLs.
+ SHA256SUMS.txt covers every deliverable except itself. SNAPSHOTS.html provides short before/after cards without
+ opening raw captures.
+
+ Recovery update: Apple’s earlier terms and Evernote’s earlier main privacy policy are complete. S21-S23 supersede the
+ partial privacy recovery in S16/S19. The older separate Cookie Notice remains unavailable; newly explicit main-policy
+ wording does not date the start of actual tracking. No comprehensive breach-history finding is claimed.
+
+
+
+
+THE QUIET REWRITE | Evidence snapshot: October 25, 2026                                                                   11
+
